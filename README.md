@@ -1,6 +1,6 @@
 # Jobify — Recruitment Analytics & BI Dashboard
 
-**Role:** Data Engineer / BI Developer (solo)
+**Role:** Data Engineer / BI Developer (solo) <br></br>
 **Context:** Built during my IT & Software Engineering internship ,NSTP (Aug–Sep 2026)
 **Stack:** MySQL/MariaDB · SQL Views · Looker Studio · Google Sheets · Data Modeling
 
