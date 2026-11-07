@@ -1,7 +1,7 @@
 # Jobify — Recruitment Analytics & BI Dashboard
 
 **Role:** Data Engineer / BI Developer (solo)
-**Context:** Built during my IT & Software Engineering internship at Cymax Technologies, NSTP (Aug–Sep 2026)
+**Context:** Built during my IT & Software Engineering internship ,NSTP (Aug–Sep 2026)
 **Stack:** MySQL/MariaDB · SQL Views · Looker Studio · Google Sheets · Data Modeling
 
 > Jobify's live database, raw applicant records, and source queries are company-confidential, so this is a case-study write-up of the design and build rather than a public code repo. Numbers below are real, verified results from the production system.
@@ -10,7 +10,7 @@
 
 ## The problem
 
-Jobify is Cymax's internal applicant-tracking system. Hiring activity — every application, status change, and reviewer action — was being logged, but no one could see it: there was no reporting layer, so questions like *"which jobs are stalling?"*, *"who on the hiring panel is overloaded?"*, and *"how long does hiring actually take?"* had no fast answer. My job was to design the analytics layer end to end: get the data out of MySQL, model it correctly, and turn it into a BI dashboard the hiring team could actually use.
+Jobify is an applicant-tracking system. Hiring activity — every application, status change, and reviewer action — was being logged, but no one could see it: there was no reporting layer, so questions like *"which jobs are stalling?"*, *"who on the hiring panel is overloaded?"*, and *"how long does hiring actually take?"* had no fast answer. My job was to design the analytics layer end to end: get the data out of MySQL, model it correctly, and turn it into a BI dashboard the hiring team could actually use.
 
 ## Data pipeline
 
