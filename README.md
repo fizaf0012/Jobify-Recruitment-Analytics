@@ -1,7 +1,7 @@
 # Jobify — Recruitment Analytics & BI Dashboard
 
 **Role:** Data Engineer / BI Developer (solo) <br></br>
-**Context:** Built during my IT & Software Engineering internship ,NSTP (Aug–Sep 2026)
+**Context:** Built during my IT & Software Engineering internship ,NSTP (Aug–Sep 2026) <br></br>
 **Stack:** MySQL/MariaDB · SQL Views · Looker Studio · Google Sheets · Data Modeling
 
 > Jobify's live database, raw applicant records, and source queries are company-confidential, so this is a case-study write-up of the design and build rather than a public code repo. Numbers below are real, verified results from the production system.
