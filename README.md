@@ -30,8 +30,6 @@ Executive-level overview of recruitment performance, key metrics, and overall hi
 <details>
 <summary><strong>02. Recruitment Pipeline Overview</strong></summary>
 
-<img src="dashboard/images/recruitment-pipeline.png" width="100%" alt="Recruitment Pipeline Overview">
-
 Application pipeline distribution, stage progression, and recruitment bottlenecks.
 
 [View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%282%29.pdf)
@@ -40,8 +38,6 @@ Application pipeline distribution, stage progression, and recruitment bottleneck
 
 <details>
 <summary><strong>03. User & Action Workload</strong></summary>
-
-<img src="dashboard/images/user-workload.png" width="100%" alt="User and Action Workload">
 
 Reviewer activity, workload distribution, action-level performance, and time allocation.
 
@@ -52,8 +48,6 @@ Reviewer activity, workload distribution, action-level performance, and time all
 <details>
 <summary><strong>04. Human vs AI & Time-State Analysis</strong></summary>
 
-<img src="dashboard/images/human-vs-ai.png" width="100%" alt="Human vs AI Analysis">
-
 Comparison of human and AI-driven processing activity, including active and inactive time-state analysis.
 
 [View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%284%29.pdf)
@@ -62,8 +56,6 @@ Comparison of human and AI-driven processing activity, including active and inac
 
 <details>
 <summary><strong>05. Jobs & User-Job Relationship</strong></summary>
-
-<img src="dashboard/images/jobs-analysis.png" width="100%" alt="Jobs and User Job Relationship">
 
 Job-level recruitment performance, application distribution, and reviewer-to-job relationships.
 
@@ -74,8 +66,6 @@ Job-level recruitment performance, application distribution, and reviewer-to-job
 <details>
 <summary><strong>06. Application-Level Deep Dive</strong></summary>
 
-<img src="dashboard/images/application-deep-dive.png" width="100%" alt="Application Level Analysis">
-
 Detailed application-level analysis, including individual processing history, rejection patterns, and time allocation.
 
 [View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%286%29.pdf)
@@ -84,8 +74,6 @@ Detailed application-level analysis, including individual processing history, re
 
 <details>
 <summary><strong>07. Demographics & Geography</strong></summary>
-
-<img src="dashboard/images/demographics.png" width="100%" alt="Candidate Demographics and Geography">
 
 Candidate distribution across demographic categories and geographical locations.
 
@@ -96,8 +84,6 @@ Candidate distribution across demographic categories and geographical locations.
 <details>
 <summary><strong>08. Trends & Root-Cause Analysis</strong></summary>
 
-<img src="dashboard/images/trends-root-cause.png" width="100%" alt="Trends and Root Cause Analysis">
-
 Time-based recruitment trends and drill-down analysis to investigate the factors behind performance metrics.
 
 [View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%288%29.pdf)
@@ -107,8 +93,6 @@ Time-based recruitment trends and drill-down analysis to investigate the factors
 <details>
 <summary><strong>09. Conversion & Performance Benchmarking</strong></summary>
 
-<img src="dashboard/images/conversion-benchmarking.png" width="100%" alt="Conversion and Performance Benchmarking">
-
 Hiring conversion rates, recruitment efficiency, and comparative performance benchmarks.
 
 [View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%289%29.pdf)
@@ -117,8 +101,6 @@ Hiring conversion rates, recruitment efficiency, and comparative performance ben
 
 <details>
 <summary><strong>10. Operational Risk & Alerts</strong></summary>
-
-<img src="dashboard/images/operational-risk.png" width="100%" alt="Operational Risk and Alerts">
 
 Identification of operational bottlenecks, recruitment risks, and areas requiring management attention.
 
