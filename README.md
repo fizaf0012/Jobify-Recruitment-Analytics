@@ -19,7 +19,7 @@ The dashboard consists of 10 analytical sections, each designed to provide a dif
 <details open>
 <summary><strong>01. KPI Overview</strong></summary>
 
-<img src="https://github.com/fizaf0012/Jobify-Recruitment-Analytics/dashboard/Jobify_Pulse_-_360%20(1).pdf" width="100%" alt="Jobify KPI Overview Dashboard">
+<img src="dashboard/Jobify_Pulse_-_360%20%281%29.pdf" width="100%" alt="Jobify KPI Overview Dashboard">
 
 Executive-level overview of recruitment performance, key metrics, and overall hiring health.
 
