@@ -12,6 +12,120 @@
 
 Jobify is an applicant-tracking system. Hiring activity — every application, status change, and reviewer action — was being logged, but no one could see it: there was no reporting layer, so questions like *"which jobs are stalling?"*, *"who on the hiring panel is overloaded?"*, and *"how long does hiring actually take?"* had no fast answer. My job was to design the analytics layer end to end: get the data out of MySQL, model it correctly, and turn it into a BI dashboard the hiring team could actually use.
 
+## Dashboard Preview
+
+The dashboard consists of 10 analytical sections, each designed to provide a different perspective on recruitment performance, operational efficiency, and hiring outcomes.
+
+<details open>
+<summary><strong>01. KPI Overview</strong></summary>
+
+<img src="dashboard/images/kpi-overview.png" width="100%" alt="Jobify KPI Overview Dashboard">
+
+Executive-level overview of recruitment performance, key metrics, and overall hiring health.
+
+[View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%281%29.pdf)
+
+</details>
+
+<details>
+<summary><strong>02. Recruitment Pipeline Overview</strong></summary>
+
+<img src="dashboard/images/recruitment-pipeline.png" width="100%" alt="Recruitment Pipeline Overview">
+
+Application pipeline distribution, stage progression, and recruitment bottlenecks.
+
+[View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%282%29.pdf)
+
+</details>
+
+<details>
+<summary><strong>03. User & Action Workload</strong></summary>
+
+<img src="dashboard/images/user-workload.png" width="100%" alt="User and Action Workload">
+
+Reviewer activity, workload distribution, action-level performance, and time allocation.
+
+[View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%283%29.pdf)
+
+</details>
+
+<details>
+<summary><strong>04. Human vs AI & Time-State Analysis</strong></summary>
+
+<img src="dashboard/images/human-vs-ai.png" width="100%" alt="Human vs AI Analysis">
+
+Comparison of human and AI-driven processing activity, including active and inactive time-state analysis.
+
+[View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%284%29.pdf)
+
+</details>
+
+<details>
+<summary><strong>05. Jobs & User-Job Relationship</strong></summary>
+
+<img src="dashboard/images/jobs-analysis.png" width="100%" alt="Jobs and User Job Relationship">
+
+Job-level recruitment performance, application distribution, and reviewer-to-job relationships.
+
+[View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%285%29.pdf)
+
+</details>
+
+<details>
+<summary><strong>06. Application-Level Deep Dive</strong></summary>
+
+<img src="dashboard/images/application-deep-dive.png" width="100%" alt="Application Level Analysis">
+
+Detailed application-level analysis, including individual processing history, rejection patterns, and time allocation.
+
+[View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%286%29.pdf)
+
+</details>
+
+<details>
+<summary><strong>07. Demographics & Geography</strong></summary>
+
+<img src="dashboard/images/demographics.png" width="100%" alt="Candidate Demographics and Geography">
+
+Candidate distribution across demographic categories and geographical locations.
+
+[View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%287%29.pdf)
+
+</details>
+
+<details>
+<summary><strong>08. Trends & Root-Cause Analysis</strong></summary>
+
+<img src="dashboard/images/trends-root-cause.png" width="100%" alt="Trends and Root Cause Analysis">
+
+Time-based recruitment trends and drill-down analysis to investigate the factors behind performance metrics.
+
+[View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%288%29.pdf)
+
+</details>
+
+<details>
+<summary><strong>09. Conversion & Performance Benchmarking</strong></summary>
+
+<img src="dashboard/images/conversion-benchmarking.png" width="100%" alt="Conversion and Performance Benchmarking">
+
+Hiring conversion rates, recruitment efficiency, and comparative performance benchmarks.
+
+[View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%289%29.pdf)
+
+</details>
+
+<details>
+<summary><strong>10. Operational Risk & Alerts</strong></summary>
+
+<img src="dashboard/images/operational-risk.png" width="100%" alt="Operational Risk and Alerts">
+
+Identification of operational bottlenecks, recruitment risks, and areas requiring management attention.
+
+[View Full Dashboard (PDF)](dashboard/Jobify_Pulse_-_360%20%2810%29.pdf)
+
+</details>
+
 ## Data pipeline
 
 MySQL (Laravel app DB) → SQL Views (phpMyAdmin) → CSV export → Google Sheets → Looker Studio
